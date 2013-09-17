@@ -17,12 +17,17 @@ class Program
         string personThree = "PersonThree";
         int personThreeApples = 0;
 
+        // TODO: Classmate must add his / hers name and how many apples he / she have
+        string personFour = "PersonFour";
+        int personFourApples = 0;
+
 
         int totalApples = martinApples + personTwoApples +  personThreeApples;
 
         Console.WriteLine("My name is " + personOne + " and I have " + martinApples + " apples.");
         Console.WriteLine("My name is " + personTwo + " and I have " + personTwoApples + " apples.");
         Console.WriteLine("My name is " + personThree + " and I have " + personThreeApples + " apples.");
+        Console.WriteLine("My name is " + personFour + " and I have " + personFourApples + " apples.");
 
         Console.WriteLine("\nTogether we have " + totalApples + " apples. That will be one hell of an apple pie!!!");
         

@@ -9,9 +9,9 @@ class Program
         string personOne = "Martin";
         int martinApples = 7;
 
-        // TODO: Classmate must add his / hers name and how many apples he / she have
-        string personTwo = "PersonTwo"; 
-        int personTwoApples = 0;
+        // Jag har ändrat ! ! ! 
+        string personTwo = "Magnus"; 
+        int personTwoApples = 325;
 
         // TODO: Classmate must add his / hers name and how many apples he / she have
         string personThree = "PersonThree";
